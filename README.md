@@ -20,3 +20,8 @@ Variables: <br />
 * PushoverEmergencySound
 <br /> <br />
 Example: set(PushoverAppToken:'1abcd32345def...');
+<br /> <br />
+<h6>Usage:</h6>
+PushoverSendNotification('String to Send'); <br />
+PushoverSendNotification('String to Send', 0); //With priority param <br />
+PushoverSendNotification('String to Send', 0, 'soundToPlay'); //With sound to play <br />
