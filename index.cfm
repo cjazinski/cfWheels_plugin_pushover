@@ -2,7 +2,7 @@
 <p>     
 	<h2>How to use</h2>
 	<ol>
-		<li>Set Variables<li>
+		<li>Set Variables</li>
 		<li>Send Notification</li>
 	</ol>
 	<h3>Usage:</h3>
