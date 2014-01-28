@@ -18,5 +18,5 @@ Variables: <br />
 * PushoverAppToken <br />
 * PushoverUserToken <br />
 * PushoverEmergencySound
-<br /> <br />        
+<br /> <br />
 Example: set(PushoverAppToken:'1abcd32345def...');
