@@ -10,15 +10,13 @@ Installation: Install the plug as normal (follow cfwheels guide)<br />
 PreReqs: You must define a few variables in the settings so the pushover plugin
 knows your API and Application key. You can register your application (and obtain both keys) at pushover.net. ALSO YOU MUST HAVE A PUSHOVER ACCOUNT AND APP (ios/droid)
 <br /> <br />
-        <h2>How to use</h2>
-         1. Set Variables
-         2. Send Notification
-
-        <h3>Variables</h3>
-        
-        * PushoverAppToken
-        * PushoverUserToken
-        * PushoverEmergencySound
-        
-** Example: set(PushoverAppToken:'1abcd32345def...'); //in settings
-** Note The EmergencySound will be set if you do not set it **
+How to Use: <br />
+1. Set Variables <br />
+2. Send Notification
+<br /> <br />
+Variables: <br />
+* PushoverAppToken <br />
+* PushoverUserToken <br />
+* PushoverEmergencySound
+<br /> <br />        
+Example: set(PushoverAppToken:'1abcd32345def...');
